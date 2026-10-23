@@ -603,7 +603,7 @@ def run(topic: str, as_of: Optional[str] = None):
     return out
 
 
-run("Self Attention in Transformer Architecture")
+# run("Self Attention in Transformer Architecture")
 
 
 
